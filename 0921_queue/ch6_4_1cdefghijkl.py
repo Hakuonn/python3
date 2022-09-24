@@ -19,6 +19,7 @@ print(name)
 1.類private的用法，希望此變數或函式僅供內部使用，但在Python中只是理想，仍能存取
 2.前單底線函示，在from M import * 不會 import進來，除非指定import該函式 or 在__all__裡有定義
 """
+# 1
 class Prefix:
     def __init__(self):
         self.public = 1
@@ -30,6 +31,7 @@ print(p._hopePrivate) # 可讀取
 p._hopePrivate = 3 #可重新賦予值
 print(p._hopePrivate)
 
+# 2
 from class_file import *
 from class_file import _privateFun #指定該函式才不會NameError
 print(publicFun())
