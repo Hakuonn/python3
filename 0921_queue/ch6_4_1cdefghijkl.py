@@ -52,6 +52,7 @@ def dummy(name,class_):
 1.python避免發生與子類別的變數名稱衝突，會對變數重新命名，稱為名稱修飾 -> _類別名__變數名
 2.子類別也同時繼承父類別的屬性
 """
+# 1
 class Dummy():
     def __init__(self):
         self.__baz = 3
@@ -61,13 +62,14 @@ d = Dummy()
 print(dir(d)) #dir() -> 查看物件裡目前所有屬性 #發現並沒有__baz屬性，最像的是_Dummy__baz屬性
 print(d._Dummy__baz)
 
+# 2
 class subDummy(Dummy):
     def __init__(self):
         super().__init__()
         self.__baz = 33
 
 sd = subDummy()
-print(dir(sd)) #發現 __baz 名稱被改為 _subDummy__baz
+print(dir(sd)) #發現 繼承後的__baz 名稱被改為 _subDummy__baz
 print(sd._Dummy__baz)
 print(sd._subDummy__baz)
 
@@ -83,7 +85,7 @@ print(dir(sd))
 
 """ 
 前後雙底線:
-1.保留於特殊用途上，提供給使用者“複寫”
+1.保留於特殊用途上，提供給使用者“複寫” ex: __init__
 """
 class Dummy:
     def __init__(self):
