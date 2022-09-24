@@ -1,5 +1,4 @@
 import threading
-import time
 import queue
 
 
@@ -14,7 +13,7 @@ def multithreading():
     data = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12], [13, 14, 15]]
 
     for i in range(5):
-        t = threading.Thread(target=job, args=(data[i], Q))
+        t = threading.Thread(target=job, args=(data[i], Q)) # args傳出的順序要與接收的參數對齊
         t.start()
         t.join()
 
