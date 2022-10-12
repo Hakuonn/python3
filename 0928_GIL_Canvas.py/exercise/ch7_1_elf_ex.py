@@ -14,10 +14,10 @@ c.pack()
 
 def job():
     r = 100
-    while True():
-        c.create_arc(400+r,400+r,400-r,400-r,start=30,extent=300,fill='white')
+    while True:
+        c.create_arc(400+r,400+r,400-r,400-r,start=90,extent=270,fill='white')
         time.sleep(0.1)
-        c.create_arc(400+r,400+r,400-r,400-r,start=30,extent=300,fill='red')
+        c.create_arc(400+r,400+r,400-r,400-r,start=90,extent=270,fill='red')
         time.sleep(0.1)
         c.create_arc(400+r,400+r,400-r,400-r,start=30,extent=300,fill='orange')
         time.sleep(0.1)

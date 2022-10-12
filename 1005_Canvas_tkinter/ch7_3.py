@@ -44,6 +44,7 @@ c.create_rectangle(w/2-150,h/2-60,w/2+150,h/2+60,fill='brown')
 c.create_oval(w/2-r,h/2-r,w/2+r,h/2+r,fill='black')
 c.create_oval(w/2-r-100,h/2-r,w/2+r-100,h/2+r,fill='black')
 c.create_oval(w/2-r+100,h/2-r,w/2+r+100,h/2+r,fill='black')
+
 def job():
     while True:
         if flag == 0:

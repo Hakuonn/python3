@@ -21,7 +21,7 @@ def scale(canvas, x, y, j, size):
         y2 = y+r*math.sin(math.pi/180*i)
         line(w, x1, y1, x2, y2, 'black', size)
 
-
+#mac 顯示text有bug , 在win上是正常顯示的
 def text(canvas, x, y):
     for i in range(0, 360, 30):
         x1 = x+128*math.sin(math.pi/180*i)
