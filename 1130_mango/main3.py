@@ -1,8 +1,8 @@
 import pymongo
 myclient = pymongo.MongoClient("mongodb://localhost:27017")
-mydb = myclient['python-tutorial']
+mydb = myclient['mydatabase']
 mycol = mydb['customers']
-
+ #  如果沒有自己設_id 則mongodb會自己創建
 mylist=[
     {'_id':1,'name':'Uber','country':'Taiwan'},
     {'_id':2,'name':'BMW','country':'USA'},

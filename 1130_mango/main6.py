@@ -1,6 +1,6 @@
 import pymongo
 myclient = pymongo.MongoClient("mongodb://localhost:27017")
-mydb = myclient['python-tutorial']
+mydb = myclient['mydatabase']
 mycol = mydb['customers']
 
 qmethod = input('選擇查詢方式（_id or name or country）：')
