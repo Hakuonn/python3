@@ -1,0 +1,44 @@
+body{
+    background-color: #F7FFF7;
+    color: #343434;
+}
+
+#head_div {
+    padding: 5px,5px,5px,5px;
+    height: 40px;
+    width: 100%;
+    border-bottom: #343434 solid;
+    position: absolute;
+    top: 0px;
+}
+#MyMusic{
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    line-height: 0px;
+    margin-right: 200px;
+    position: absolute;
+}
+#menu{
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    line-height: 0px;
+    position: absolute;
+    right: 300px;
+    top: 5px;
+}
+#table_menu{
+    text-align: center;
+    height: 40px;
+    width: 350px;
+}
+
+
+#main{
+    background-color: violet;
+    height: 800px;
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
