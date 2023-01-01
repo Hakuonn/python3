@@ -22,4 +22,4 @@ def success(name,action):
     return '{} : Welcome {}'.format(action,name)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)

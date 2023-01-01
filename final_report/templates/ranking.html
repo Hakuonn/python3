@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMusic-Ranking</title>
+    <script src="../static/jquery-3.6.0.min.js"></script>
+    <script src="../static/update_completed.js"></script>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/ranking.css')}}">
+</head>
+<body>
+    <div id="head_div" onclick="self.location.href='/'">
+        <div id="MyMusic">
+            <p style="font-size: 25px;"> MyMusic | </p>
+        </div>
+        <div id="kkbox_logo">
+            <img src="../static/images/kkbox.png" alt="" width="100px">
+        </div>
+        {%if ranktitle != undefined%}
+        <div id="ranktitle">
+          {{ranktitle}}
+        </div>
+        {%endif%}
+    </div>
+    <div id="main">
+        {%if charts != undefined %}
+        <table border="1" style="border-radius: 5px;">
+            <tr></tr><th style="padding: 10px;">名稱</th><th style="padding: 10px;">歌手</th><th style="padding: 10px;">動作</th></tr>
+            <!-- 歌名 | 歌手 | 動作(查詢v，修改，新增) -->
+            {%for item in charts%}
+            <tr><td><p class="yyoooo">{{item[0]}}</p></td><td><p class="yyoooo">{{item[2]}}</p></td>
+            <td>
+                <!-- 動作(查詢->連結到該首歌的網站) -->
+                <a href={{item[1]}}><button type="submit" class="submit">查詢</button></a>
+                <!-- 動作(修改歌名) -->
+                <form action="/update" method="post">
+                    <input type="hidden" name="ranktitle" value="{{ranktitle}}"/>
+                    <input type="hidden" name="songname" value="{{item[0]}}"/>
+                    <input type="hidden" name="songlink" value="{{item[1]}}"/>
+                    <input type="submit" value="更新" name="submit" class="submit"/>
+                </form>
+                <!-- 刪除 -->
+                <form action="/delete" method="post">
+                    <input type="hidden" name="ranktitle" value="{{ranktitle}}"/>
+                    <input type="hidden" name="songname" value="{{item[0]}}"/>
+                    <input type="hidden" name="songlink" value="{{item[1]}}"/>
+                    <input type="submit" value="刪除" name="submit" class="submit" onclick="showdelete()"/>
+                </form>
+                {%if ranktitle != "我的最愛"%}
+                <form action="/mylovepage" method="post">
+                    <input type="hidden" name="ranktitle" value="{{ranktitle}}"/>
+                    <input type="hidden" name="songname" value="{{item[0]}}"/>
+                    <input type="hidden" name="songlink" value="{{item[1]}}"/>
+                    <input type="hidden" name="artist" value="{{item[2]}}"/>
+                    <input type="submit" value="最愛" name="submit" class="submit" onclick="insertmylove()"/>  
+                </form>
+                {%endif%}
+            </td></tr>
+            {%endfor%}
+        </table>
+        {%endif%}
+    </div>
+</body>
+</html>

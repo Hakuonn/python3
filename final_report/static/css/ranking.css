@@ -1,0 +1,63 @@
+body{
+    background-color: #343434;
+}
+
+#head_div {
+    padding: 5px,5px,5px,5px;
+    height: 50px;
+    width: 100%;
+    background-color: #09CEF6;
+    color: white;
+    border-bottom: whitesmoke solid 2px;
+    position: absolute;
+    top: 0px;
+}
+#MyMusic{
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    line-height: 0px;
+    margin-right: 200px;
+    position: absolute;
+}
+#kkbox_logo{
+    position: absolute;
+    left: 150px;
+    top: 10px;
+}
+#ranktitle{
+    font-size: 25px;
+    border: whitesmoke solid 2px;
+    padding: 0px 5px 0px 5px;
+    position: absolute;
+    left: 280px;
+    top: 5px;
+}
+#main{
+    background-color: whitesmoke;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
+
+.submit{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #caf0f8;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    color: black;
+}
+.submit:hover{
+    background-color: #219ebc;
+    color: white;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.yyoooo{
+    font-size: 20px;
+}

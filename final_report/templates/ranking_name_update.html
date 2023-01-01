@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMusic-更新</title>
+    <script src="../static/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/update.css')}}">
+    <script src="../static/update_completed.js"></script>
+</head>
+<body>
+    <div id="head_div">
+        <div id="MyMusic">
+            <p style="font-size: 25px;">MyMusic | </p>
+        </div>
+        <div id="kkbox_logo">
+            <img src="../static/images/kkbox.png" alt="" width="100px">
+        </div>
+    </div>
+    <div id="main">
+        {%if data != undefined %}
+        <div id="update_div">
+            <form action="/updating" method="post">
+                <p>歌曲原名：{{data[1]}}</p>
+                <input type="text" name="newname" id="newname" placeholder="請輸入新歌名"/>
+                <input type="hidden" name="ranktitle" value="{{data[0]}}">
+                <input type="hidden" name="songlink" value="{{data[2]}}">
+                <input type="submit" value="更新" name="submit" id="update_button" onclick="showalert()"/>
+            </form>
+        </div>
+        {%endif%}
+    </div>
+</body>
+</html>

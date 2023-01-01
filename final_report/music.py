@@ -1,3 +1,4 @@
+#kkbox api
 import requests
 import json
 #憑證
@@ -67,12 +68,14 @@ def get_charts_tracks(chart_id):
     result = response.json()['data']
     data = []
     for item in result:
-        # print(item['name'],item['url'])
+        # print(item['name'],item['album']['artist']['name'])
         data.append({
             'name' : item['name'],
-            'url' : item['url']
+            'url' : item['url'],
+            'artist' : item['album']['artist']['name']
         })
     return data
+# get_charts_tracks('LZPhK2EyYzN15dU-PT')
 
 #儲存至各個排行榜json檔
 def store_charts_tracks():

@@ -5,23 +5,40 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyMusic-主頁</title>
+    <script src="../static/jquery-3.6.0.min.js"></script>
     <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
 </head>
 <body>
     <div id="head_div">
         <div id="MyMusic">
-            <p style="font-size: 25px;">MyMusic</p>
+            <p style="font-size: 25px;">MyMusic | </p>
         </div>
-        <div id="menu">
-            <table id="table_menu">
-                <tr><td>首頁</td>
-                    <td>日榜查詢</td>
-                    <td>週榜查詢</td></tr>
-            </table>
+        <div id="kkbox_logo">
+            <img src="../static/images/kkbox.png" alt="" width="100px">
         </div>
     </div>
     <div id="main">
-        <!-- 主要程式 -->
+        <div id="table_div">
+            {% if data != undefined %}
+            <table border="1" id="table_link" style="border-radius: 5px;">
+                <tr><th style="padding: 10px;">排行榜</th><th style="padding: 10px;">URL</th></tr>
+                <tr><td>我的最愛</td><td class="button_td">
+                    <form action="/mylove" method="post">
+                        <input type="hidden" value="我的最愛" name="ranktitle" />
+                        <input type="submit" value="查詢" name="submit" class="button_link" />
+                    </form>
+                </td></tr>
+                {%for item in data%}
+                <tr><td>{{item[1]}}</td><td class="button_td">
+                    <form action="/submit" method="post">
+                        <input type="hidden" value="{{item[0]}}" name="rank_id" />
+                        <input type="hidden" value="{{item[1]}}" name="ranktitle" />
+                        <input type="submit" value="查詢" name="submit" class="button_link" />
+                    </form></td></tr>
+                {%endfor%}
+            </table>
+            {%endif%}
+        </div>
     </div>
 </body>
 </html>

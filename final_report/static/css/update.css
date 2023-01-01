@@ -1,0 +1,59 @@
+body{
+    background-color: #343434;
+}
+
+#head_div {
+    padding: 5px,5px,5px,5px;
+    height: 50px;
+    width: 100%;
+    background-color: #09CEF6;
+    color: white;
+    border-bottom: whitesmoke solid 2px;
+    position: absolute;
+    top: 0px;
+}
+#MyMusic{
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    line-height: 0px;
+    margin-right: 200px;
+    position: absolute;
+}
+#kkbox_logo{
+    position: absolute;
+    left: 150px;
+    top: 10px;
+}
+#main{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
+#update_div{
+    text-align: left;
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    top: 150px;
+}
+#newname{
+    width: 400px;
+    height: 50px;
+    font-size: 26px;
+}
+#update_button{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #caf0f8;
+    color: black;
+    font-size: 23px;
+}
+#update_button:hover{
+    background-color: #219ebc;
+    color: white;
+
+}

@@ -1,402 +1,502 @@
 [
     {
         "name": "清醒夢 (Lucid Dream)",
-        "url": "https://www.kkbox.com/tw/tc/song/L-ylEorBXlYLszRbH4"
+        "url": "https://www.kkbox.com/tw/tc/song/L-ylEorBXlYLszRbH4",
+        "artist": "孫盛希 (Shi Shi)"
     },
     {
         "name": "the one",
-        "url": "https://www.kkbox.com/tw/tc/song/OkmPbqGnwySdJsZYkk"
+        "url": "https://www.kkbox.com/tw/tc/song/OkmPbqGnwySdJsZYkk",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "不介意",
-        "url": "https://www.kkbox.com/tw/tc/song/D-82HrUmldMinQRnHN"
+        "url": "https://www.kkbox.com/tw/tc/song/D-82HrUmldMinQRnHN",
+        "artist": "鶴 The Crane"
     },
     {
         "name": "Nobody Gets Me",
-        "url": "https://www.kkbox.com/tw/tc/song/8l-RsOgXvIvon90Lu3"
+        "url": "https://www.kkbox.com/tw/tc/song/8l-RsOgXvIvon90Lu3",
+        "artist": "SZA"
     },
     {
         "name": "Goodbye 2022 (feat. J.O.Y)",
-        "url": "https://www.kkbox.com/tw/tc/song/4qqpcopcWUFosdZpQk"
+        "url": "https://www.kkbox.com/tw/tc/song/4qqpcopcWUFosdZpQk",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "Losing You",
-        "url": "https://www.kkbox.com/tw/tc/song/Csy6sVjN3ZiY15LrHh"
+        "url": "https://www.kkbox.com/tw/tc/song/Csy6sVjN3ZiY15LrHh",
+        "artist": "FLO"
     },
     {
         "name": "just talking to myself",
-        "url": "https://www.kkbox.com/tw/tc/song/Op04ONfQzUmSaApeMf"
+        "url": "https://www.kkbox.com/tw/tc/song/Op04ONfQzUmSaApeMf",
+        "artist": "華莎 (Hwa Sa)"
     },
     {
         "name": "late night cruising",
-        "url": "https://www.kkbox.com/tw/tc/song/Ol7YlTyoS497aDgkb3"
+        "url": "https://www.kkbox.com/tw/tc/song/Ol7YlTyoS497aDgkb3",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "PRINCESS",
-        "url": "https://www.kkbox.com/tw/tc/song/5ZbcJELhsZjzsCkaR0"
+        "url": "https://www.kkbox.com/tw/tc/song/5ZbcJELhsZjzsCkaR0",
+        "artist": "鶴 The Crane"
     },
     {
         "name": "better off without you",
-        "url": "https://www.kkbox.com/tw/tc/song/KoZ9NJVxP2VFsILHT6"
+        "url": "https://www.kkbox.com/tw/tc/song/KoZ9NJVxP2VFsILHT6",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Numb",
-        "url": "https://www.kkbox.com/tw/tc/song/KkY2QtqT5hrtBIyP-y"
+        "url": "https://www.kkbox.com/tw/tc/song/KkY2QtqT5hrtBIyP-y",
+        "artist": "Marshmello, Khalid"
     },
     {
         "name": "想了妳６次",
-        "url": "https://www.kkbox.com/tw/tc/song/9ZgRJAres_ZpEDVXKp"
+        "url": "https://www.kkbox.com/tw/tc/song/9ZgRJAres_ZpEDVXKp",
+        "artist": "王ADEN"
     },
     {
         "name": "妳是我寶貝ㄟ",
-        "url": "https://www.kkbox.com/tw/tc/song/WrPsig_HHVANIsO7d4"
+        "url": "https://www.kkbox.com/tw/tc/song/WrPsig_HHVANIsO7d4",
+        "artist": "王ADEN"
     },
     {
         "name": "走著走著就散了",
-        "url": "https://www.kkbox.com/tw/tc/song/CsZmM61t3ZiY3ogtr5"
+        "url": "https://www.kkbox.com/tw/tc/song/CsZmM61t3ZiY3ogtr5",
+        "artist": "莊心妍"
     },
     {
         "name": "For the Night",
-        "url": "https://www.kkbox.com/tw/tc/song/-sw7m49Dgs1-Am1BsP"
+        "url": "https://www.kkbox.com/tw/tc/song/-sw7m49Dgs1-Am1BsP",
+        "artist": "Chlöe, Latto"
     },
     {
         "name": "White Snow (feat. prettyhappy)",
-        "url": "https://www.kkbox.com/tw/tc/song/4ofp-m6atWt5lr11ea"
+        "url": "https://www.kkbox.com/tw/tc/song/4ofp-m6atWt5lr11ea",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "你是不是有點動心",
-        "url": "https://www.kkbox.com/tw/tc/song/H_nB3b8Y6JmyydViOV"
+        "url": "https://www.kkbox.com/tw/tc/song/H_nB3b8Y6JmyydViOV",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "再見你一次 (日劇【仁者俠醫-JIN-】主題曲)",
-        "url": "https://www.kkbox.com/tw/tc/song/P_wFGnIKadNrjKsPFs"
+        "url": "https://www.kkbox.com/tw/tc/song/P_wFGnIKadNrjKsPFs",
+        "artist": "米希亞 (MISIA)"
     },
     {
         "name": "otherside",
-        "url": "https://www.kkbox.com/tw/tc/song/9ae9XvCd1jmuJhA_Lx"
+        "url": "https://www.kkbox.com/tw/tc/song/9ae9XvCd1jmuJhA_Lx",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "七十億分之一加一 ([1/7(10^9)]+1)",
-        "url": "https://www.kkbox.com/tw/tc/song/0rSuuWcx97UdzfeqIJ"
+        "url": "https://www.kkbox.com/tw/tc/song/0rSuuWcx97UdzfeqIJ",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "0.03",
-        "url": "https://www.kkbox.com/tw/tc/song/9aWbt3Yd1jmuLSGr_f"
+        "url": "https://www.kkbox.com/tw/tc/song/9aWbt3Yd1jmuLSGr_f",
+        "artist": "ØZI"
     },
     {
         "name": "It's Giving Christmas",
-        "url": "https://www.kkbox.com/tw/tc/song/KntpsGkcKmKv757XgS"
+        "url": "https://www.kkbox.com/tw/tc/song/KntpsGkcKmKv757XgS",
+        "artist": "Chris Brown (克里斯小子)"
     },
     {
         "name": "為你我受冷風吹",
-        "url": "https://www.kkbox.com/tw/tc/song/DaGhhlapK9m6Hc8bR2"
+        "url": "https://www.kkbox.com/tw/tc/song/DaGhhlapK9m6Hc8bR2",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "idfk",
-        "url": "https://www.kkbox.com/tw/tc/song/Hahm1QV1E8K3bQk1n8"
+        "url": "https://www.kkbox.com/tw/tc/song/Hahm1QV1E8K3bQk1n8",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Where Is The Love? (Black Eyed Peas) - Album Version",
-        "url": "https://www.kkbox.com/tw/tc/song/5YXzc713hYuu2F8szP"
+        "url": "https://www.kkbox.com/tw/tc/song/5YXzc713hYuu2F8szP",
+        "artist": "R&B Collaborations 2007"
     },
     {
         "name": "All of Me",
-        "url": "https://www.kkbox.com/tw/tc/song/Gn2oLfnWJNIVLk-xFR"
+        "url": "https://www.kkbox.com/tw/tc/song/Gn2oLfnWJNIVLk-xFR",
+        "artist": "John Legend (約翰傳奇)"
     },
     {
         "name": "我們不一樣",
-        "url": "https://www.kkbox.com/tw/tc/song/8mCI35CwJRsamfrabc"
+        "url": "https://www.kkbox.com/tw/tc/song/8mCI35CwJRsamfrabc",
+        "artist": "大壯 (DZ)"
     },
     {
         "name": "沒什麼大不了",
-        "url": "https://www.kkbox.com/tw/tc/song/LZkamFe8MFHaj9ZFQD"
+        "url": "https://www.kkbox.com/tw/tc/song/LZkamFe8MFHaj9ZFQD",
+        "artist": "陳芳語 (Kimberley Chen)"
     },
     {
         "name": "完全變態 (Complete Metamorphosis)",
-        "url": "https://www.kkbox.com/tw/tc/song/4ooZER6qtWt5k3_NJn"
+        "url": "https://www.kkbox.com/tw/tc/song/4ooZER6qtWt5k3_NJn",
+        "artist": "Jinbo"
     },
     {
         "name": "精神分裂",
-        "url": "https://www.kkbox.com/tw/tc/song/4qGf5RyMWUFovvn2xL"
+        "url": "https://www.kkbox.com/tw/tc/song/4qGf5RyMWUFovvn2xL",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Blinding Lights",
-        "url": "https://www.kkbox.com/tw/tc/song/OlGvCDl4S497ZOP9Xo"
+        "url": "https://www.kkbox.com/tw/tc/song/OlGvCDl4S497ZOP9Xo",
+        "artist": "The Weeknd (威肯)"
     },
     {
         "name": "她不是怪人就是壞",
-        "url": "https://www.kkbox.com/tw/tc/song/-rRtLGstJ3FgbHQnVa"
+        "url": "https://www.kkbox.com/tw/tc/song/-rRtLGstJ3FgbHQnVa",
+        "artist": "LIU KOI, 高真 THU"
     },
     {
         "name": "Good Days",
-        "url": "https://www.kkbox.com/tw/tc/song/WnYrqfczwvj1zKGw8j"
+        "url": "https://www.kkbox.com/tw/tc/song/WnYrqfczwvj1zKGw8j",
+        "artist": "SZA"
     },
     {
         "name": "LAVA!",
-        "url": "https://www.kkbox.com/tw/tc/song/LYKVB7UUB5NioerWsV"
+        "url": "https://www.kkbox.com/tw/tc/song/LYKVB7UUB5NioerWsV",
+        "artist": "ØZI"
     },
     {
         "name": "怪天氣",
-        "url": "https://www.kkbox.com/tw/tc/song/4tb_kOXoLX0lH-aWHY"
+        "url": "https://www.kkbox.com/tw/tc/song/4tb_kOXoLX0lH-aWHY",
+        "artist": "YELLOW黃宣"
     },
     {
         "name": "Leave The Door Open",
-        "url": "https://www.kkbox.com/tw/tc/song/DXpInfRyg_DL-ep-k_"
+        "url": "https://www.kkbox.com/tw/tc/song/DXpInfRyg_DL-ep-k_",
+        "artist": "Bruno Mars, Anderson .Paak, Silk Sonic"
     },
     {
         "name": "Say So",
-        "url": "https://www.kkbox.com/tw/tc/song/Wp_I22ZraMOw8j8Fo5"
+        "url": "https://www.kkbox.com/tw/tc/song/Wp_I22ZraMOw8j8Fo5",
+        "artist": "Doja Cat"
     },
     {
         "name": "全世界的朋友都讓我失望 (All of My Friends)",
-        "url": "https://www.kkbox.com/tw/tc/song/8rU2CoeU59bDTKwQzA"
+        "url": "https://www.kkbox.com/tw/tc/song/8rU2CoeU59bDTKwQzA",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Faraway",
-        "url": "https://www.kkbox.com/tw/tc/song/P-ejMjVmhnTeOEoy0Y"
+        "url": "https://www.kkbox.com/tw/tc/song/P-ejMjVmhnTeOEoy0Y",
+        "artist": "Rafi Sudirman"
     },
     {
         "name": "Never Leave Me",
-        "url": "https://www.kkbox.com/tw/tc/song/Ta3FSD-HNCtw_0JwSB"
+        "url": "https://www.kkbox.com/tw/tc/song/Ta3FSD-HNCtw_0JwSB",
+        "artist": "meenoi"
     },
     {
         "name": "WISH",
-        "url": "https://www.kkbox.com/tw/tc/song/LX7ujMnxU4Yl7r6z0c"
+        "url": "https://www.kkbox.com/tw/tc/song/LX7ujMnxU4Yl7r6z0c",
+        "artist": "TRADE L"
     },
     {
         "name": "Because Of You - Album Version",
-        "url": "https://www.kkbox.com/tw/tc/song/5XNo6LA_ELRudRk1uo"
+        "url": "https://www.kkbox.com/tw/tc/song/5XNo6LA_ELRudRk1uo",
+        "artist": "Ne-Yo (尼歐)"
     },
     {
         "name": "LA·LA·LA· LOVE SONG",
-        "url": "https://www.kkbox.com/tw/tc/song/KnwXkj08KmKv4kYcBu"
+        "url": "https://www.kkbox.com/tw/tc/song/KnwXkj08KmKv4kYcBu",
+        "artist": "久保田利伸 (Toshinobu Kubota)"
     },
     {
         "name": "MY WAY",
-        "url": "https://www.kkbox.com/tw/tc/song/9YsI31UetUrZ07-gnp"
+        "url": "https://www.kkbox.com/tw/tc/song/9YsI31UetUrZ07-gnp",
+        "artist": "Various Artists"
     },
     {
         "name": "Heartbreak Anniversary",
-        "url": "https://www.kkbox.com/tw/tc/song/L_XJ28sJ_NyBox6jXl"
+        "url": "https://www.kkbox.com/tw/tc/song/L_XJ28sJ_NyBox6jXl",
+        "artist": "Giveon"
     },
     {
         "name": "Promise (feat. Ashley Alisha)",
-        "url": "https://www.kkbox.com/tw/tc/song/_aoekPzQAvqjbC7fmR"
+        "url": "https://www.kkbox.com/tw/tc/song/_aoekPzQAvqjbC7fmR",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "Save Your Tears - Remix",
-        "url": "https://www.kkbox.com/tw/tc/song/5X8cScKPELRueWN4hQ"
+        "url": "https://www.kkbox.com/tw/tc/song/5X8cScKPELRueWN4hQ",
+        "artist": "The Weeknd, Ariana Grande"
     },
     {
         "name": "I Will Always Love You",
-        "url": "https://www.kkbox.com/tw/tc/song/CtlOc7aFUSEGapRdm-"
+        "url": "https://www.kkbox.com/tw/tc/song/CtlOc7aFUSEGapRdm-",
+        "artist": "Whitney Houston (惠妮休斯頓)"
     },
     {
         "name": "擦亮",
-        "url": "https://www.kkbox.com/tw/tc/song/LZZlBlFMMFHaiIS8Wj"
+        "url": "https://www.kkbox.com/tw/tc/song/LZZlBlFMMFHaiIS8Wj",
+        "artist": "阿橘"
     },
     {
         "name": "Amazing",
-        "url": "https://www.kkbox.com/tw/tc/song/OsJkAV508UtsyLo4aY"
+        "url": "https://www.kkbox.com/tw/tc/song/OsJkAV508UtsyLo4aY",
+        "artist": "Hoody (후디)"
     },
     {
         "name": "你懂我 (Understand)",
-        "url": "https://www.kkbox.com/tw/tc/song/Go2ExQCwV7_Ode4Kbz"
+        "url": "https://www.kkbox.com/tw/tc/song/Go2ExQCwV7_Ode4Kbz",
+        "artist": "PiA吳蓓雅"
     },
     {
         "name": "if only you",
-        "url": "https://www.kkbox.com/tw/tc/song/8rCESCJU59bDTvLhar"
+        "url": "https://www.kkbox.com/tw/tc/song/8rCESCJU59bDTvLhar",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "All She Wanna Do",
-        "url": "https://www.kkbox.com/tw/tc/song/P_zDzvHKadNrjuKAPg"
+        "url": "https://www.kkbox.com/tw/tc/song/P_zDzvHKadNrjuKAPg",
+        "artist": "John Legend (約翰傳奇)"
     },
     {
         "name": "One Last Dance (feat. Milky Day)",
-        "url": "https://www.kkbox.com/tw/tc/song/KqFg7OvB3UapHMUYe7"
+        "url": "https://www.kkbox.com/tw/tc/song/KqFg7OvB3UapHMUYe7",
+        "artist": "Thomas Ng"
     },
     {
         "name": "Better",
-        "url": "https://www.kkbox.com/tw/tc/song/Gm-GDRRT7q4F5DIfjK"
+        "url": "https://www.kkbox.com/tw/tc/song/Gm-GDRRT7q4F5DIfjK",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Under The Influence",
-        "url": "https://www.kkbox.com/tw/tc/song/1Z0cm19smUN-6Bj0LR"
+        "url": "https://www.kkbox.com/tw/tc/song/1Z0cm19smUN-6Bj0LR",
+        "artist": "Chris Brown (克里斯小子)"
     },
     {
         "name": "Selfish Love (feat. Ashley Alisha)",
-        "url": "https://www.kkbox.com/tw/tc/song/5-qn9jQui4L5pHte2i"
+        "url": "https://www.kkbox.com/tw/tc/song/5-qn9jQui4L5pHte2i",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "郵票",
-        "url": "https://www.kkbox.com/tw/tc/song/KsxOcx5XfpSTTlYVv1"
+        "url": "https://www.kkbox.com/tw/tc/song/KsxOcx5XfpSTTlYVv1",
+        "artist": "陳芳語 (Kimberley Chen)"
     },
     {
         "name": "Unique Design",
-        "url": "https://www.kkbox.com/tw/tc/song/Cpdesib_XVWGsikoyg"
+        "url": "https://www.kkbox.com/tw/tc/song/Cpdesib_XVWGsikoyg",
+        "artist": "鶴 The Crane"
     },
     {
         "name": "Starboy",
-        "url": "https://www.kkbox.com/tw/tc/song/_-fKrOp-B8cu1J5Mbl"
+        "url": "https://www.kkbox.com/tw/tc/song/_-fKrOp-B8cu1J5Mbl",
+        "artist": "The Weeknd (威肯)"
     },
     {
         "name": "Real Thing (feat. Tori Kelly)",
-        "url": "https://www.kkbox.com/tw/tc/song/4nWz095I3TYuodnKVd"
+        "url": "https://www.kkbox.com/tw/tc/song/4nWz095I3TYuodnKVd",
+        "artist": "Pink Sweat$"
     },
     {
         "name": "up at night (feat. justin bieber)",
-        "url": "https://www.kkbox.com/tw/tc/song/OoDvHkwq32AqbYUN_N"
+        "url": "https://www.kkbox.com/tw/tc/song/OoDvHkwq32AqbYUN_N",
+        "artist": "Kehlani"
     },
     {
         "name": "撥接",
-        "url": "https://www.kkbox.com/tw/tc/song/4rUKzg7wSSJLr43ovm"
+        "url": "https://www.kkbox.com/tw/tc/song/4rUKzg7wSSJLr43ovm",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Umbrella - Album Version",
-        "url": "https://www.kkbox.com/tw/tc/song/4s7C79sjOGRFiUfJri"
+        "url": "https://www.kkbox.com/tw/tc/song/4s7C79sjOGRFiUfJri",
+        "artist": "Rihanna (蕾哈娜)"
     },
     {
         "name": "太陽風 (feat. HengJones) (SOLAR WIND (feat. HengJones))",
-        "url": "https://www.kkbox.com/tw/tc/song/__8zE1p5VATFcaVaw-"
+        "url": "https://www.kkbox.com/tw/tc/song/__8zE1p5VATFcaVaw-",
+        "artist": "史斯宇"
     },
     {
         "name": "Grey Christmas",
-        "url": "https://www.kkbox.com/tw/tc/song/CmB_0qlltBWGpzgnZz"
+        "url": "https://www.kkbox.com/tw/tc/song/CmB_0qlltBWGpzgnZz",
+        "artist": "華莎 (Hwa Sa)"
     },
     {
         "name": "Locked Away",
-        "url": "https://www.kkbox.com/tw/tc/song/4m6OqV03f387omJube"
+        "url": "https://www.kkbox.com/tw/tc/song/4m6OqV03f387omJube",
+        "artist": "R. City feat.  Adam Levine"
     },
     {
         "name": "Right Now (Na Na Na)",
-        "url": "https://www.kkbox.com/tw/tc/song/Cr7FiHQRa7_3P0oRx2"
+        "url": "https://www.kkbox.com/tw/tc/song/Cr7FiHQRa7_3P0oRx2",
+        "artist": "Akon (阿肯)"
     },
     {
         "name": "Satellite",
-        "url": "https://www.kkbox.com/tw/tc/song/Cqs76OKCUh-7-SPayp"
+        "url": "https://www.kkbox.com/tw/tc/song/Cqs76OKCUh-7-SPayp",
+        "artist": "Khalid"
     },
     {
         "name": "retail therapy",
-        "url": "https://www.kkbox.com/tw/tc/song/PXWtaZHr8IwsCTOAO9"
+        "url": "https://www.kkbox.com/tw/tc/song/PXWtaZHr8IwsCTOAO9",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "trust me",
-        "url": "https://www.kkbox.com/tw/tc/song/Ko4e7qUBP2VFsFjc0w"
+        "url": "https://www.kkbox.com/tw/tc/song/Ko4e7qUBP2VFsFjc0w",
+        "artist": "sunkis 宋秉勤"
     },
     {
         "name": "Die For You",
-        "url": "https://www.kkbox.com/tw/tc/song/T-9tcQs--xXCU5C6yR"
+        "url": "https://www.kkbox.com/tw/tc/song/T-9tcQs--xXCU5C6yR",
+        "artist": "The Weeknd (威肯)"
     },
     {
         "name": "Make Me Happy",
-        "url": "https://www.kkbox.com/tw/tc/song/-pQJiI2hzoZVoooKsO"
+        "url": "https://www.kkbox.com/tw/tc/song/-pQJiI2hzoZVoooKsO",
+        "artist": "輝人 (Whee In)"
     },
     {
         "name": "Like I'm Gonna Lose You",
-        "url": "https://www.kkbox.com/tw/tc/song/Os0bULp08UtsyqFtTo"
+        "url": "https://www.kkbox.com/tw/tc/song/Os0bULp08UtsyqFtTo",
+        "artist": "Meghan Trainor (梅根崔娜)"
     },
     {
         "name": "At My Worst",
-        "url": "https://www.kkbox.com/tw/tc/song/8kBSt7IosZ01O7VlXN"
+        "url": "https://www.kkbox.com/tw/tc/song/8kBSt7IosZ01O7VlXN",
+        "artist": "Pink Sweat$"
     },
     {
         "name": "睡不著",
-        "url": "https://www.kkbox.com/tw/tc/song/9ZfU3FnOs_ZpF_BICT"
+        "url": "https://www.kkbox.com/tw/tc/song/9ZfU3FnOs_ZpF_BICT",
+        "artist": "壞特 ?te"
     },
     {
         "name": "溫度",
-        "url": "https://www.kkbox.com/tw/tc/song/GpHtmYvO-IKc0B5hJa"
+        "url": "https://www.kkbox.com/tw/tc/song/GpHtmYvO-IKc0B5hJa",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "The Way I Still Love You",
-        "url": "https://www.kkbox.com/tw/tc/song/KlwRL0MIBZNACAHgsn"
+        "url": "https://www.kkbox.com/tw/tc/song/KlwRL0MIBZNACAHgsn",
+        "artist": "Reynard Silva"
     },
     {
         "name": "Santé",
-        "url": "https://www.kkbox.com/tw/tc/song/DXp_AqbSg_DL9CskBz"
+        "url": "https://www.kkbox.com/tw/tc/song/DXp_AqbSg_DL9CskBz",
+        "artist": "壞特 ?te"
     },
     {
         "name": "Ghost in the Machine",
-        "url": "https://www.kkbox.com/tw/tc/song/4l8G7-3a9Z5EYSWfn2"
+        "url": "https://www.kkbox.com/tw/tc/song/4l8G7-3a9Z5EYSWfn2",
+        "artist": "SZA"
     },
     {
         "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
-        "url": "https://www.kkbox.com/tw/tc/song/Kk_IVjqD5hrtAIMwa8"
+        "url": "https://www.kkbox.com/tw/tc/song/Kk_IVjqD5hrtAIMwa8",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "It's You",
-        "url": "https://www.kkbox.com/tw/tc/song/CmadJrz1tBWGpgEXQ5"
+        "url": "https://www.kkbox.com/tw/tc/song/CmadJrz1tBWGpgEXQ5",
+        "artist": "Ali Gatie"
     },
     {
         "name": "Love On Top",
-        "url": "https://www.kkbox.com/tw/tc/song/4sRHzRsjOGRFiXvbhI"
+        "url": "https://www.kkbox.com/tw/tc/song/4sRHzRsjOGRFiXvbhI",
+        "artist": "Beyoncé (碧昂絲)"
     },
     {
         "name": "Things Things Things",
-        "url": "https://www.kkbox.com/tw/tc/song/9Zgx1enes_ZpHiOZ1W"
+        "url": "https://www.kkbox.com/tw/tc/song/9Zgx1enes_ZpHiOZ1W",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "Slide All Night",
-        "url": "https://www.kkbox.com/tw/tc/song/Slccc1rrOx5G0xl8oG"
+        "url": "https://www.kkbox.com/tw/tc/song/Slccc1rrOx5G0xl8oG",
+        "artist": "Emotional Oranges"
     },
     {
         "name": "Honey",
-        "url": "https://www.kkbox.com/tw/tc/song/DarUp9RZK9m6H3Ihh_"
+        "url": "https://www.kkbox.com/tw/tc/song/DarUp9RZK9m6H3Ihh_",
+        "artist": "耀謙 (Willy)"
     },
     {
         "name": "All About You (Feat. GRAM)",
-        "url": "https://www.kkbox.com/tw/tc/song/DZSECyhaM7Eso3SyRb"
+        "url": "https://www.kkbox.com/tw/tc/song/DZSECyhaM7Eso3SyRb",
+        "artist": "soowoo"
     },
     {
         "name": "Baby I Love U - English Version",
-        "url": "https://www.kkbox.com/tw/tc/song/8rQJsCZ059bDRcX4z1"
+        "url": "https://www.kkbox.com/tw/tc/song/8rQJsCZ059bDRcX4z1",
+        "artist": "Che'Nelle (香奈兒)"
     },
     {
         "name": "Obliviate (feat. Nobody likes you pat & Ashley Alisha)",
-        "url": "https://www.kkbox.com/tw/tc/song/LYkMqyTEB5NiooMrxF"
+        "url": "https://www.kkbox.com/tw/tc/song/LYkMqyTEB5NiooMrxF",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "If I Ain't Got You",
-        "url": "https://www.kkbox.com/tw/tc/song/GlelrARpylVNE38WrG"
+        "url": "https://www.kkbox.com/tw/tc/song/GlelrARpylVNE38WrG",
+        "artist": "Alicia Keys (艾莉西亞凱斯)"
     },
     {
         "name": "職業倦怠",
-        "url": "https://www.kkbox.com/tw/tc/song/9X1zi6tS3wYrBtij90"
+        "url": "https://www.kkbox.com/tw/tc/song/9X1zi6tS3wYrBtij90",
+        "artist": "吳思賢 (小樂)"
     },
     {
         "name": "i can't",
-        "url": "https://www.kkbox.com/tw/tc/song/-ktsar1TMveSZG1MP3"
+        "url": "https://www.kkbox.com/tw/tc/song/-ktsar1TMveSZG1MP3",
+        "artist": "吳卓源 (Julia Wu)"
     },
     {
         "name": "MISSIONARY",
-        "url": "https://www.kkbox.com/tw/tc/song/LZUXqwS8MFHahxtd5a"
+        "url": "https://www.kkbox.com/tw/tc/song/LZUXqwS8MFHahxtd5a",
+        "artist": "ØZI"
     },
     {
         "name": "FREE FALL",
-        "url": "https://www.kkbox.com/tw/tc/song/Ok0SCKfHwySdKe9w2t"
+        "url": "https://www.kkbox.com/tw/tc/song/Ok0SCKfHwySdKe9w2t",
+        "artist": "ØZI"
     },
     {
         "name": "Happy - From \"Despicable Me 2\"",
-        "url": "https://www.kkbox.com/tw/tc/song/CpD5eeVvXVWGufzGVO"
+        "url": "https://www.kkbox.com/tw/tc/song/CpD5eeVvXVWGufzGVO",
+        "artist": "Pharrell Williams (菲瑞威廉斯)"
     },
     {
         "name": "DJ Got Us Fallin' In Love",
-        "url": "https://www.kkbox.com/tw/tc/song/9Xk-nNgy3wYrAJ7Umr"
+        "url": "https://www.kkbox.com/tw/tc/song/9Xk-nNgy3wYrAJ7Umr",
+        "artist": "Usher (亞瑟小子)"
     },
     {
         "name": "August Rush (feat. J.O.Y)",
-        "url": "https://www.kkbox.com/tw/tc/song/9-JS8NAvF6qQ1RhzW-"
+        "url": "https://www.kkbox.com/tw/tc/song/9-JS8NAvF6qQ1RhzW-",
+        "artist": "Dept (뎁트)"
     },
     {
         "name": "HAPPEN",
-        "url": "https://www.kkbox.com/tw/tc/song/4nl9Zy-43TYuq2Kbkf"
+        "url": "https://www.kkbox.com/tw/tc/song/4nl9Zy-43TYuq2Kbkf",
+        "artist": "Heize (헤이즈)"
     },
     {
         "name": "催眠 (Mesmerize)",
-        "url": "https://www.kkbox.com/tw/tc/song/9XUlTpvi3wYrCBcLAa"
+        "url": "https://www.kkbox.com/tw/tc/song/9XUlTpvi3wYrCBcLAa",
+        "artist": "陳華"
     },
     {
         "name": "21 (feat. Ashley Alisha)",
-        "url": "https://www.kkbox.com/tw/tc/song/GmSI0GZz7q4F41yJqm"
+        "url": "https://www.kkbox.com/tw/tc/song/GmSI0GZz7q4F41yJqm",
+        "artist": "Dept (뎁트)"
     }
 ]

@@ -1,402 +1,502 @@
 [
     {
         "name": "為你寫下這首情歌",
-        "url": "https://www.kkbox.com/tw/tc/song/KsJYQAgHfpSTTZbLJN"
-    },
-    {
-        "name": "親愛的對象 (Untitled) - 《關於我和鬼變成家人的那件事》電影主題曲",
-        "url": "https://www.kkbox.com/tw/tc/song/H-VYXI2aCJ6qwc8XMo"
-    },
-    {
-        "name": "眼淚記得你 (Remembered)-電影《想見你》主題曲",
-        "url": "https://www.kkbox.com/tw/tc/song/5Xt7M8QPELRudrjAkl"
-    },
-    {
-        "name": "Unicorn",
-        "url": "https://www.kkbox.com/tw/tc/song/GrO4xBHyk9Zky530RU"
-    },
-    {
-        "name": "等待被理解的人 (Desire For Happiness)",
-        "url": "https://www.kkbox.com/tw/tc/song/Laovi08pzEPThhsb7X"
-    },
-    {
-        "name": "First Love - 2022 Mix",
-        "url": "https://www.kkbox.com/tw/tc/song/GsMVNcB0Z-QUa6-Pa1"
-    },
-    {
-        "name": "外人",
-        "url": "https://www.kkbox.com/tw/tc/song/OlgJhvy4S497Zf_eTu"
-    },
-    {
-        "name": "Ditto",
-        "url": "https://www.kkbox.com/tw/tc/song/CtxG-VK1USEGbArhQw"
-    },
-    {
-        "name": "也許是愛情",
-        "url": "https://www.kkbox.com/tw/tc/song/GrJBYiHik9ZkwKa3QA"
+        "url": "https://www.kkbox.com/tw/tc/song/KsJYQAgHfpSTTZbLJN",
+        "artist": "五月天 (Mayday)"
     },
     {
         "name": "親害的 (Ambivalent)",
-        "url": "https://www.kkbox.com/tw/tc/song/Cqjj8tVCUh-7-vX_E8"
+        "url": "https://www.kkbox.com/tw/tc/song/Cqjj8tVCUh-7-vX_E8",
+        "artist": "柏霖PoLin"
     },
     {
-        "name": "Take Me (feat. Haezee)",
-        "url": "https://www.kkbox.com/tw/tc/song/9XPlYXwS3wYrBflFS9"
+        "name": "親愛的對象 (Untitled) - 《關於我和鬼變成家人的那件事》電影主題曲",
+        "url": "https://www.kkbox.com/tw/tc/song/H-VYXI2aCJ6qwc8XMo",
+        "artist": "蔡依林 (Jolin Tsai)"
     },
     {
-        "name": "第一千零一顆流星 (One Last Wish)",
-        "url": "https://www.kkbox.com/tw/tc/song/8r9C1vJk59bDSSd_Fb"
+        "name": "眼淚記得你 (Remembered)-電影《想見你》主題曲",
+        "url": "https://www.kkbox.com/tw/tc/song/5Xt7M8QPELRudrjAkl",
+        "artist": "孫盛希 (Shi Shi)"
     },
     {
-        "name": "敢愛我就敢痛 (No pain no love)",
-        "url": "https://www.kkbox.com/tw/tc/song/KrjDsLBn6Il0A-ujyD"
+        "name": "外人",
+        "url": "https://www.kkbox.com/tw/tc/song/OlgJhvy4S497Zf_eTu",
+        "artist": "蕭秉治Xiao Bing Chih"
     },
     {
-        "name": "那節課沒教的 (《第9節課》片尾曲)",
-        "url": "https://www.kkbox.com/tw/tc/song/Ct-laFKlUSEGZQiXyc"
+        "name": "夢裡的女孩-電影《想見你》插曲",
+        "url": "https://www.kkbox.com/tw/tc/song/0o2XsPTnhv4OQyzzwy",
+        "artist": "陳零九 (Nine Chen)"
     },
     {
-        "name": "Celebrate",
-        "url": "https://www.kkbox.com/tw/tc/song/OlVoQoy4S497aTwdmH"
+        "name": "First Love - 2022 Mix",
+        "url": "https://www.kkbox.com/tw/tc/song/GsMVNcB0Z-QUa6-Pa1",
+        "artist": "宇多田光 (Hikaru Utada)"
+    },
+    {
+        "name": "也許是愛情",
+        "url": "https://www.kkbox.com/tw/tc/song/GrJBYiHik9ZkwKa3QA",
+        "artist": "李榮浩"
     },
     {
         "name": "現在的我好嗎",
-        "url": "https://www.kkbox.com/tw/tc/song/0o11gNT3hv4OTPTMny"
+        "url": "https://www.kkbox.com/tw/tc/song/0o11gNT3hv4OTPTMny",
+        "artist": "原子邦妮 (Astro Bunny)"
+    },
+    {
+        "name": "那節課沒教的 (《第9節課》片尾曲)",
+        "url": "https://www.kkbox.com/tw/tc/song/Ct-laFKlUSEGZQiXyc",
+        "artist": "戴愛玲 (Princess Ai)"
+    },
+    {
+        "name": "Unicorn",
+        "url": "https://www.kkbox.com/tw/tc/song/GrO4xBHyk9Zky530RU",
+        "artist": "Ozone"
+    },
+    {
+        "name": "Take Me (feat. Haezee)",
+        "url": "https://www.kkbox.com/tw/tc/song/9XPlYXwS3wYrBflFS9",
+        "artist": "高爾宣 OSN"
     },
     {
         "name": "DEEP",
-        "url": "https://www.kkbox.com/tw/tc/song/KmW-BARIR1boMJ3EtC"
+        "url": "https://www.kkbox.com/tw/tc/song/KmW-BARIR1boMJ3EtC",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "Ditto",
+        "url": "https://www.kkbox.com/tw/tc/song/CtxG-VK1USEGbArhQw",
+        "artist": "NewJeans"
     },
     {
         "name": "無情怪物",
-        "url": "https://www.kkbox.com/tw/tc/song/KkwR7v0T5hrtDyS10R"
+        "url": "https://www.kkbox.com/tw/tc/song/KkwR7v0T5hrtDyS10R",
+        "artist": "原子邦妮 (Astro Bunny)"
     },
     {
-        "name": "你教會我的事",
-        "url": "https://www.kkbox.com/tw/tc/song/KnZxC5kcKmKv5lAiDJ"
+        "name": "末日派對(ft. 徐若瑄)",
+        "url": "https://www.kkbox.com/tw/tc/song/5akPqqaTyKyO5yPEhV",
+        "artist": "玖壹壹"
     },
     {
-        "name": "火花 (Sparks)",
-        "url": "https://www.kkbox.com/tw/tc/song/8qLRc0eMYrrZN3otha"
-    },
-    {
-        "name": "White Love",
-        "url": "https://www.kkbox.com/tw/tc/song/8rQEr5JE59bDQxqPiy"
-    },
-    {
-        "name": "想跟你就這樣靠得越來越近 (Can't control it) - 《HIStory5-遇見未來的你》LINE TV片頭曲",
-        "url": "https://www.kkbox.com/tw/tc/song/Wqx88-tKTPWt6A3e3G"
-    },
-    {
-        "name": "Snowman",
-        "url": "https://www.kkbox.com/tw/tc/song/0omrK2Tnhv4OSjrrPc"
-    },
-    {
-        "name": "Hate Christmas",
-        "url": "https://www.kkbox.com/tw/tc/song/WnVwTwczwvj1x4ETzd"
-    },
-    {
-        "name": "If only you (Special Track)",
-        "url": "https://www.kkbox.com/tw/tc/song/WpmHywBbaMOw-fsqEq"
-    },
-    {
-        "name": "別人的老婆 (feat. 蒼井空) (Someone Else’s Wife (feat. 蒼井空))",
-        "url": "https://www.kkbox.com/tw/tc/song/_--X_T6eB8cu3gHhO6"
-    },
-    {
-        "name": "O.A.O.",
-        "url": "https://www.kkbox.com/tw/tc/song/OmNOd5ONTsIBeHR349"
-    },
-    {
-        "name": "You Know What I Need",
-        "url": "https://www.kkbox.com/tw/tc/song/8mJqmRbAJRsak__LxD"
-    },
-    {
-        "name": "Fire Fighter",
-        "url": "https://www.kkbox.com/tw/tc/song/4mZTFjlXf387rTIiON"
-    },
-    {
-        "name": "清醒夢 (Lucid Dream)",
-        "url": "https://www.kkbox.com/tw/tc/song/L-ylEorBXlYLszRbH4"
-    },
-    {
-        "name": "遇見",
-        "url": "https://www.kkbox.com/tw/tc/song/P_iWjdYqadNriep-aK"
-    },
-    {
-        "name": "Playboyz (feat. Karencici)",
-        "url": "https://www.kkbox.com/tw/tc/song/Or1seSElf78HWMhWs8"
-    },
-    {
-        "name": "Candy",
-        "url": "https://www.kkbox.com/tw/tc/song/1aiy44gn0t4ry-K0VG"
-    },
-    {
-        "name": "Paper Crown",
-        "url": "https://www.kkbox.com/tw/tc/song/KqrUJQyR3UapEZ_7vC"
-    },
-    {
-        "name": "GO LUV URSELF",
-        "url": "https://www.kkbox.com/tw/tc/song/4sRCKB8TOGRFhKhKG9"
-    },
-    {
-        "name": "不介意",
-        "url": "https://www.kkbox.com/tw/tc/song/D-82HrUmldMinQRnHN"
-    },
-    {
-        "name": "Nothing Is Lost (You Give Me Strength)",
-        "url": "https://www.kkbox.com/tw/tc/song/CtxrBdK1USEGapY6m-"
-    },
-    {
-        "name": "the one",
-        "url": "https://www.kkbox.com/tw/tc/song/OkmPbqGnwySdJsZYkk"
-    },
-    {
-        "name": "Come Alive?",
-        "url": "https://www.kkbox.com/tw/tc/song/SpHpFWs81sYnrB-Oq7"
-    },
-    {
-        "name": "Cheshire",
-        "url": "https://www.kkbox.com/tw/tc/song/4tpJ24OILX0lHT51xr"
-    },
-    {
-        "name": "Dear My Winter",
-        "url": "https://www.kkbox.com/tw/tc/song/OkLnYgGnwySdKxAgiN"
-    },
-    {
-        "name": "Made You Look - A Cappella",
-        "url": "https://www.kkbox.com/tw/tc/song/4s7h_z8TOGRFgwPj1U"
-    },
-    {
-        "name": "浮木",
-        "url": "https://www.kkbox.com/tw/tc/song/SqZzoN4NV6ObzH5GC0"
-    },
-    {
-        "name": "能不能和我留在台北（陪我幾天）",
-        "url": "https://www.kkbox.com/tw/tc/song/LYwkuYMEB5NioV4eFc"
-    },
-    {
-        "name": "I.f.i.l",
-        "url": "https://www.kkbox.com/tw/tc/song/8kK-w8Q4sZ01MjgO1O"
-    },
-    {
-        "name": "普普通通的人生",
-        "url": "https://www.kkbox.com/tw/tc/song/9YbkjCUetUrZ30C8oS"
-    },
-    {
-        "name": "初恋",
-        "url": "https://www.kkbox.com/tw/tc/song/4lvMGi3K9Z5EbzjQ0q"
-    },
-    {
-        "name": "錯的一對",
-        "url": "https://www.kkbox.com/tw/tc/song/OmW3uTONTsIBeOZmPj"
-    },
-    {
-        "name": "Thank You (Acoustic Version)",
-        "url": "https://www.kkbox.com/tw/tc/song/H_VMu-o46JmyxBgDRy"
-    },
-    {
-        "name": "閉上眼睛",
-        "url": "https://www.kkbox.com/tw/tc/song/Wo5ObN9z7FdqPz7HQJ"
-    },
-    {
-        "name": "Green House",
-        "url": "https://www.kkbox.com/tw/tc/song/5Z2l8ELBsZjztFa0X4"
-    },
-    {
-        "name": "倒數三萬天",
-        "url": "https://www.kkbox.com/tw/tc/song/WtYg7-RgoKRKXDo3Eh"
-    },
-    {
-        "name": "Awakening",
-        "url": "https://www.kkbox.com/tw/tc/song/H_FtMJoo6JmyxaKfmJ"
-    },
-    {
-        "name": "Draw Love (Feat.moodenuf)",
-        "url": "https://www.kkbox.com/tw/tc/song/Co1g2EPdHOVZgnr5KG"
-    },
-    {
-        "name": "My Favorite Winter",
-        "url": "https://www.kkbox.com/tw/tc/song/8t_I7WPTsnPsE8mh-P"
-    },
-    {
-        "name": "Nobody Gets Me",
-        "url": "https://www.kkbox.com/tw/tc/song/8l-RsOgXvIvon90Lu3"
-    },
-    {
-        "name": "Losing You",
-        "url": "https://www.kkbox.com/tw/tc/song/Csy6sVjN3ZiY15LrHh"
-    },
-    {
-        "name": "Hero",
-        "url": "https://www.kkbox.com/tw/tc/song/Cs9uZQjN3ZiY1g7Ikg"
-    },
-    {
-        "name": "a holiday song",
-        "url": "https://www.kkbox.com/tw/tc/song/L_VDYA2p_NyBoRdOBz"
-    },
-    {
-        "name": "Don't Break My Heart Again!",
-        "url": "https://www.kkbox.com/tw/tc/song/5YZwHflXhYuu1b20Ej"
-    },
-    {
-        "name": "對等關係 (feat. 張惠妹)",
-        "url": "https://www.kkbox.com/tw/tc/song/PaQgW7h6WKr8017JvY"
-    },
-    {
-        "name": "WHEN I MOVE",
-        "url": "https://www.kkbox.com/tw/tc/song/5YsoxflXhYuu2mtiB5"
-    },
-    {
-        "name": "孤島",
-        "url": "https://www.kkbox.com/tw/tc/song/KrfwsMB36Il0BWpmk0"
-    },
-    {
-        "name": "無聲",
-        "url": "https://www.kkbox.com/tw/tc/song/Gm1zPFGT7q4F7mxRi0"
-    },
-    {
-        "name": "深淵",
-        "url": "https://www.kkbox.com/tw/tc/song/Gl5xKVDZylVNGZ2NBr"
-    },
-    {
-        "name": "VERA",
-        "url": "https://www.kkbox.com/tw/tc/song/Kttff_VFIXgP1Hm-df"
-    },
-    {
-        "name": "Like the Rain",
-        "url": "https://www.kkbox.com/tw/tc/song/4kU4-fgPWkaL9Gb7OM"
-    },
-    {
-        "name": "人魚",
-        "url": "https://www.kkbox.com/tw/tc/song/WqjVPUtKTPWt7t_9XJ"
-    },
-    {
-        "name": "時差",
-        "url": "https://www.kkbox.com/tw/tc/song/Xa0VmLEbiLniJyTthj"
-    },
-    {
-        "name": "不在乎 feat. 李李仁",
-        "url": "https://www.kkbox.com/tw/tc/song/D_MfMe6qOtw-Z3J-vC"
-    },
-    {
-        "name": "Dancing’s Done",
-        "url": "https://www.kkbox.com/tw/tc/song/TafzOM-XNCtw8dfb8f"
-    },
-    {
-        "name": "Clear",
-        "url": "https://www.kkbox.com/tw/tc/song/GrjQoxHik9ZkyCXSyu"
-    },
-    {
-        "name": "山中森林 (feat. 李千那) (Lost In Forest (feat. 李千那)) - 電影【山中森林】主題曲",
-        "url": "https://www.kkbox.com/tw/tc/song/4q8CQHpMWUFoue2RqA"
-    },
-    {
-        "name": "背後的地球",
-        "url": "https://www.kkbox.com/tw/tc/song/Kn9ah8kMKmKv6-yI0r"
-    },
-    {
-        "name": "邊緣人格",
-        "url": "https://www.kkbox.com/tw/tc/song/8pMU9NLr2c2ekqWbyq"
-    },
-    {
-        "name": "毒藥",
-        "url": "https://www.kkbox.com/tw/tc/song/Kld3BOSYBZNAC8LBWb"
-    },
-    {
-        "name": "瓶中信",
-        "url": "https://www.kkbox.com/tw/tc/song/4mUnaslXf387oTB1N4"
-    },
-    {
-        "name": "white lies",
-        "url": "https://www.kkbox.com/tw/tc/song/X-kll7wL-uxSgM8Khq"
+        "name": "小忘掉 (Unremembered)",
+        "url": "https://www.kkbox.com/tw/tc/song/8l_YXGgHvIvokJFHiw",
+        "artist": "潘嘉麗 (Kelly Pan)"
     },
     {
         "name": "Lucky Me",
-        "url": "https://www.kkbox.com/tw/tc/song/XY4RoCSSJrx2FU8eSE"
+        "url": "https://www.kkbox.com/tw/tc/song/XY4RoCSSJrx2FU8eSE",
+        "artist": "Jake Miller"
     },
     {
-        "name": "Destination Freestyle (feat. King Vvibe)",
-        "url": "https://www.kkbox.com/tw/tc/song/CqjVigVSUh-78A5L67"
+        "name": "Celebrate",
+        "url": "https://www.kkbox.com/tw/tc/song/OlVoQoy4S497aTwdmH",
+        "artist": "SUPER JUNIOR"
     },
     {
-        "name": "Cappuccino",
-        "url": "https://www.kkbox.com/tw/tc/song/GkH4dLrenSw3RIHLuu"
+        "name": "Made You Look - A Cappella",
+        "url": "https://www.kkbox.com/tw/tc/song/4s7h_z8TOGRFgwPj1U",
+        "artist": "Meghan Trainor (梅根崔娜)"
     },
     {
-        "name": "冰山 (Special Edition)",
-        "url": "https://www.kkbox.com/tw/tc/song/D-EgX4U2ldMinRjDYs"
+        "name": "Fire Fighter",
+        "url": "https://www.kkbox.com/tw/tc/song/4mZTFjlXf387rTIiON",
+        "artist": "FEniX"
     },
     {
-        "name": "Goodbye 2022 (feat. J.O.Y)",
-        "url": "https://www.kkbox.com/tw/tc/song/4qqpcopcWUFosdZpQk"
+        "name": "清醒夢 (Lucid Dream)",
+        "url": "https://www.kkbox.com/tw/tc/song/L-ylEorBXlYLszRbH4",
+        "artist": "孫盛希 (Shi Shi)"
     },
     {
-        "name": "面壁者 - 《三体》动画片尾主题曲",
-        "url": "https://www.kkbox.com/tw/tc/song/Or8oA9Elf78HUuphtR"
+        "name": "不介意",
+        "url": "https://www.kkbox.com/tw/tc/song/D-82HrUmldMinQRnHN",
+        "artist": "鶴 The Crane"
     },
     {
-        "name": "對吧 (am I right)",
-        "url": "https://www.kkbox.com/tw/tc/song/KqKttMyx3UapGpD-AT"
+        "name": "Dancing’s Done",
+        "url": "https://www.kkbox.com/tw/tc/song/TafzOM-XNCtw8dfb8f",
+        "artist": "Ava Max (艾娃麥絲)"
     },
     {
-        "name": "甜噩夢 (Sweet Nightmare)",
-        "url": "https://www.kkbox.com/tw/tc/song/PZbg_6X1fVd6i1MmlF"
+        "name": "White Love",
+        "url": "https://www.kkbox.com/tw/tc/song/8rQEr5JE59bDQxqPiy",
+        "artist": "SUPER JUNIOR"
     },
     {
-        "name": "No Bad Days",
-        "url": "https://www.kkbox.com/tw/tc/song/0oulLBTnhv4ORb3x4y"
+        "name": "想跟你就這樣靠得越來越近 (Can't control it) - 《HIStory5-遇見未來的你》LINE TV片頭曲",
+        "url": "https://www.kkbox.com/tw/tc/song/Wqx88-tKTPWt6A3e3G",
+        "artist": "Ozone"
     },
     {
-        "name": "My Only (My Only)",
-        "url": "https://www.kkbox.com/tw/tc/song/0nsdxLpMHT59ah_-CK"
+        "name": "Come Alive?",
+        "url": "https://www.kkbox.com/tw/tc/song/SpHpFWs81sYnrB-Oq7",
+        "artist": "ØZI"
     },
     {
-        "name": "Binanua-az (feat. A-Lin)",
-        "url": "https://www.kkbox.com/tw/tc/song/HZWVCcZSEYKfmRvtzG"
+        "name": "Snowman",
+        "url": "https://www.kkbox.com/tw/tc/song/0omrK2Tnhv4OSjrrPc",
+        "artist": "SUPER JUNIOR"
     },
     {
-        "name": "Wild Flower (with youjeen)",
-        "url": "https://www.kkbox.com/tw/tc/song/9-Xq9SfPF6qQ2qjY3e"
+        "name": "火花 (Sparks)",
+        "url": "https://www.kkbox.com/tw/tc/song/8qLRc0eMYrrZN3otha",
+        "artist": "Ozone"
     },
     {
-        "name": "撞牆 feat. POPO J (Hit The Wall)",
-        "url": "https://www.kkbox.com/tw/tc/song/4taqBxOYLX0lG3ryQO"
-    },
-    {
-        "name": "Pretty Girl Era",
-        "url": "https://www.kkbox.com/tw/tc/song/SlALCerrOx5G37GaMg"
-    },
-    {
-        "name": "Tiger (feat. ØZI)",
-        "url": "https://www.kkbox.com/tw/tc/song/Wo3LLE9z7FdqM43MfI"
-    },
-    {
-        "name": "穿過月光遇見你 (電視劇《月裡青山淡如畫》片尾曲)",
-        "url": "https://www.kkbox.com/tw/tc/song/Stv76IiS4xyDK75jQC"
-    },
-    {
-        "name": "冬日花朵",
-        "url": "https://www.kkbox.com/tw/tc/song/KnvPFTkMKmKv5cKKdY"
-    },
-    {
-        "name": "just talking to myself",
-        "url": "https://www.kkbox.com/tw/tc/song/Op04ONfQzUmSaApeMf"
-    },
-    {
-        "name": "不為什麼 (Unknown) - VERA",
-        "url": "https://www.kkbox.com/tw/tc/song/-nNAD1Yoz-JyhIsO30"
+        "name": "Hate Christmas",
+        "url": "https://www.kkbox.com/tw/tc/song/WnVwTwczwvj1x4ETzd",
+        "artist": "SUPER JUNIOR"
     },
     {
         "name": "Don't Cry For Me",
-        "url": "https://www.kkbox.com/tw/tc/song/Cl9j3J_oFKtg1P1rlS"
+        "url": "https://www.kkbox.com/tw/tc/song/Cl9j3J_oFKtg1P1rlS",
+        "artist": "Whitney Houston (惠妮休斯頓)"
     },
     {
-        "name": "Lover",
-        "url": "https://www.kkbox.com/tw/tc/song/KlDx6bSYBZNABoSpWC"
+        "name": "遇見",
+        "url": "https://www.kkbox.com/tw/tc/song/P_iWjdYqadNriep-aK",
+        "artist": "Various Artists"
     },
     {
-        "name": "the way you wanna be",
-        "url": "https://www.kkbox.com/tw/tc/song/-nMkQ_Y4z-Jyhd8m7g"
+        "name": "If only you (Special Track)",
+        "url": "https://www.kkbox.com/tw/tc/song/WpmHywBbaMOw-fsqEq",
+        "artist": "SUPER JUNIOR"
+    },
+    {
+        "name": "你教會我的事",
+        "url": "https://www.kkbox.com/tw/tc/song/KnZxC5kcKmKv5lAiDJ",
+        "artist": "深白色二人組 (Deepwhite2)"
+    },
+    {
+        "name": "GO LUV URSELF",
+        "url": "https://www.kkbox.com/tw/tc/song/4sRCKB8TOGRFhKhKG9",
+        "artist": "Karencici"
+    },
+    {
+        "name": "普普通通的人生",
+        "url": "https://www.kkbox.com/tw/tc/song/9YbkjCUetUrZ30C8oS",
+        "artist": "魏嘉瑩 (Arrow Wei)"
+    },
+    {
+        "name": "Destination Freestyle (feat. King Vvibe)",
+        "url": "https://www.kkbox.com/tw/tc/song/CqjVigVSUh-78A5L67",
+        "artist": "Crash Adams"
+    },
+    {
+        "name": "Losing You",
+        "url": "https://www.kkbox.com/tw/tc/song/Csy6sVjN3ZiY15LrHh",
+        "artist": "FLO"
+    },
+    {
+        "name": "Nothing Is Lost (You Give Me Strength)",
+        "url": "https://www.kkbox.com/tw/tc/song/CtxrBdK1USEGapY6m-",
+        "artist": "Simon Franglen"
+    },
+    {
+        "name": "Hero",
+        "url": "https://www.kkbox.com/tw/tc/song/Cs9uZQjN3ZiY1g7Ikg",
+        "artist": "Martin Garrix, JVKE"
+    },
+    {
+        "name": "No Bad Days",
+        "url": "https://www.kkbox.com/tw/tc/song/0oulLBTnhv4ORb3x4y",
+        "artist": "Flo Rida (佛羅里達)"
+    },
+    {
+        "name": "Mon Soleil",
+        "url": "https://www.kkbox.com/tw/tc/song/8qvF03eMYrrZPZsyV-",
+        "artist": "Ashley Park, Chris Alan Lee"
+    },
+    {
+        "name": "Clear",
+        "url": "https://www.kkbox.com/tw/tc/song/GrjQoxHik9ZkyCXSyu",
+        "artist": "Fly By Midnight"
+    },
+    {
+        "name": "能不能和我留在台北（陪我幾天）",
+        "url": "https://www.kkbox.com/tw/tc/song/LYwkuYMEB5NioV4eFc",
+        "artist": "icyball 冰球樂團"
+    },
+    {
+        "name": "初恋",
+        "url": "https://www.kkbox.com/tw/tc/song/4lvMGi3K9Z5EbzjQ0q",
+        "artist": "宇多田光 (Hikaru Utada)"
+    },
+    {
+        "name": "在凌晨睡著的自己",
+        "url": "https://www.kkbox.com/tw/tc/song/PZ7YkSXVfVd6iqdr7N",
+        "artist": "告五人 (AccuseFive)"
+    },
+    {
+        "name": "Playboyz (feat. Karencici)",
+        "url": "https://www.kkbox.com/tw/tc/song/Or1seSElf78HWMhWs8",
+        "artist": "VERA"
+    },
+    {
+        "name": "I Wanna Be with You",
+        "url": "https://www.kkbox.com/tw/tc/song/GlSeGqD5ylVNHkfYyJ",
+        "artist": "Chris James"
+    },
+    {
+        "name": "O.A.O.",
+        "url": "https://www.kkbox.com/tw/tc/song/OmNOd5ONTsIBeHR349",
+        "artist": "Ozone"
+    },
+    {
+        "name": "Nobody Gets Me",
+        "url": "https://www.kkbox.com/tw/tc/song/8l-RsOgXvIvon90Lu3",
+        "artist": "SZA"
+    },
+    {
+        "name": "I Love You 兔！ (feat. DJ Soda)",
+        "url": "https://www.kkbox.com/tw/tc/song/DZrwb2hKM7Esp-yJkG",
+        "artist": "黃明志 (Namewee)"
+    },
+    {
+        "name": "BAD TIME GOOD TIME",
+        "url": "https://www.kkbox.com/tw/tc/song/Cl4nCi_oFKtg3WYxR-",
+        "artist": "Laura Marano"
+    },
+    {
+        "name": "​After After Party",
+        "url": "https://www.kkbox.com/tw/tc/song/-lRjFlWPSD43mOAFKP",
+        "artist": "傻子與白痴"
+    },
+    {
+        "name": "浮木",
+        "url": "https://www.kkbox.com/tw/tc/song/SqZzoN4NV6ObzH5GC0",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "Missing Piece",
+        "url": "https://www.kkbox.com/tw/tc/song/D_dyvq6qOtw-bPQUgg",
+        "artist": "Jonasu"
+    },
+    {
+        "name": "突然好想你",
+        "url": "https://www.kkbox.com/tw/tc/song/GnFxXx2GJNIVK1C0LO",
+        "artist": "五月天 (Mayday)"
+    },
+    {
+        "name": "為你寫下這首情歌",
+        "url": "https://www.kkbox.com/tw/tc/song/9a8atyDd1jmuKDaRiS",
+        "artist": "五月天 (Mayday)"
+    },
+    {
+        "name": "倒數三萬天",
+        "url": "https://www.kkbox.com/tw/tc/song/WtYg7-RgoKRKXDo3Eh",
+        "artist": "麋先生 (Mixer)"
+    },
+    {
+        "name": "對等關係 (feat. 張惠妹)",
+        "url": "https://www.kkbox.com/tw/tc/song/PaQgW7h6WKr8017JvY",
+        "artist": "李榮浩"
+    },
+    {
+        "name": "閉上眼睛",
+        "url": "https://www.kkbox.com/tw/tc/song/Wo5ObN9z7FdqPz7HQJ",
+        "artist": "林昱君 (Ludy Lin)"
+    },
+    {
+        "name": "最重要的小事",
+        "url": "https://www.kkbox.com/tw/tc/song/Wrk3Y9i3HVANIayp2J",
+        "artist": "五月天 (Mayday)"
+    },
+    {
+        "name": "錯的一對",
+        "url": "https://www.kkbox.com/tw/tc/song/OmW3uTONTsIBeOZmPj",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "bad weather",
+        "url": "https://www.kkbox.com/tw/tc/song/T-YUSW_O-xXCV7MQVA",
+        "artist": "moon tang"
+    },
+    {
+        "name": "Don't Break My Heart Again!",
+        "url": "https://www.kkbox.com/tw/tc/song/5YZwHflXhYuu1b20Ej",
+        "artist": "Dena"
+    },
+    {
+        "name": "孤島",
+        "url": "https://www.kkbox.com/tw/tc/song/KrfwsMB36Il0BWpmk0",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "Candy",
+        "url": "https://www.kkbox.com/tw/tc/song/1aiy44gn0t4ry-K0VG",
+        "artist": "NCT DREAM"
+    },
+    {
+        "name": "人魚",
+        "url": "https://www.kkbox.com/tw/tc/song/WqjVPUtKTPWt7t_9XJ",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "BROMAN",
+        "url": "https://www.kkbox.com/tw/tc/song/PZN9K7XVfVd6h2leP2",
+        "artist": "玖壹壹"
+    },
+    {
+        "name": "無聲",
+        "url": "https://www.kkbox.com/tw/tc/song/Gm1zPFGT7q4F7mxRi0",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "敢愛我就敢痛 (No pain no love)",
+        "url": "https://www.kkbox.com/tw/tc/song/KrjDsLBn6Il0A-ujyD",
+        "artist": "林茉曦"
+    },
+    {
+        "name": "Holding Out for a Hero",
+        "url": "https://www.kkbox.com/tw/tc/song/WnT5juczwvj1xTNk3F",
+        "artist": "Adam Lambert (亞當藍伯特)"
+    },
+    {
+        "name": "世界都看見",
+        "url": "https://www.kkbox.com/tw/tc/song/0tAceP3AKUfrDRnlmq",
+        "artist": "玖壹壹"
+    },
+    {
+        "name": "I.f.i.l",
+        "url": "https://www.kkbox.com/tw/tc/song/8kK-w8Q4sZ01MjgO1O",
+        "artist": "KIRE"
+    },
+    {
+        "name": "Cappuccino",
+        "url": "https://www.kkbox.com/tw/tc/song/GkH4dLrenSw3RIHLuu",
+        "artist": "PINK FUN"
+    },
+    {
+        "name": "最後的歹勢",
+        "url": "https://www.kkbox.com/tw/tc/song/SrX5idP-fJsJiRE0m9",
+        "artist": "玖壹壹"
+    },
+    {
+        "name": "邊緣人格",
+        "url": "https://www.kkbox.com/tw/tc/song/8pMU9NLr2c2ekqWbyq",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "尋夢 (Starlight) - 陰陽師六週年紀念主題曲",
+        "url": "https://www.kkbox.com/tw/tc/song/KlikoySYBZNAAb6Leb",
+        "artist": "韋禮安 (WeiBird)"
+    },
+    {
+        "name": "Awakening",
+        "url": "https://www.kkbox.com/tw/tc/song/H_FtMJoo6JmyxaKfmJ",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "冰山 (Special Edition)",
+        "url": "https://www.kkbox.com/tw/tc/song/D-EgX4U2ldMinRjDYs",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "毒藥",
+        "url": "https://www.kkbox.com/tw/tc/song/Kld3BOSYBZNAC8LBWb",
+        "artist": "尋人啟事The Wanted"
+    },
+    {
+        "name": "面壁者 - 《三体》动画片尾主题曲",
+        "url": "https://www.kkbox.com/tw/tc/song/Or8oA9Elf78HUuphtR",
+        "artist": "G.E.M.鄧紫棋"
+    },
+    {
+        "name": "My Only (My Only)",
+        "url": "https://www.kkbox.com/tw/tc/song/0nsdxLpMHT59ah_-CK",
+        "artist": "AcQUA (源少年)"
+    },
+    {
+        "name": "AMIGO",
+        "url": "https://www.kkbox.com/tw/tc/song/WoIEJq9j7FdqNbeojK",
+        "artist": "玖壹壹"
+    },
+    {
+        "name": "Drunk Tank",
+        "url": "https://www.kkbox.com/tw/tc/song/SmCSYgIZ2bwp6N6jC6",
+        "artist": "Marc E. Bassy"
+    },
+    {
+        "name": "just talking to myself",
+        "url": "https://www.kkbox.com/tw/tc/song/Op04ONfQzUmSaApeMf",
+        "artist": "華莎 (Hwa Sa)"
+    },
+    {
+        "name": "相信愛情的笨蛋",
+        "url": "https://www.kkbox.com/tw/tc/song/X_A--wlOxGbE6Am0dU",
+        "artist": "吳克群 (Kenji Wu)"
+    },
+    {
+        "name": "對吧 (am I right)",
+        "url": "https://www.kkbox.com/tw/tc/song/KqKttMyx3UapGpD-AT",
+        "artist": "李東軒 (Austin Lee)"
+    },
+    {
+        "name": "癡人說夢",
+        "url": "https://www.kkbox.com/tw/tc/song/4tCLMcOYLX0lEK9RbK",
+        "artist": "玖壹壹"
+    },
+    {
+        "name": "一場遊戲一場夢 (結束篇)",
+        "url": "https://www.kkbox.com/tw/tc/song/KsDZAwgHfpSTRmzj6v",
+        "artist": "王傑 (Dave Wang)"
+    },
+    {
+        "name": "深淵",
+        "url": "https://www.kkbox.com/tw/tc/song/Gl5xKVDZylVNGZ2NBr",
+        "artist": "邱鋒澤 (Feng Ze)"
+    },
+    {
+        "name": "NOT SORRY",
+        "url": "https://www.kkbox.com/tw/tc/song/Oq2ps7rPMMmVcdT2_Q",
+        "artist": "Various Artists"
+    },
+    {
+        "name": "Binanua-az (feat. A-Lin)",
+        "url": "https://www.kkbox.com/tw/tc/song/HZWVCcZSEYKfmRvtzG",
+        "artist": "阿布絲・塔娜比瑪"
+    },
+    {
+        "name": "White Snow (feat. prettyhappy)",
+        "url": "https://www.kkbox.com/tw/tc/song/4ofp-m6atWt5lr11ea",
+        "artist": "Dept (뎁트)"
+    },
+    {
+        "name": "憂傷的晴朗Melancholy Sunshine",
+        "url": "https://www.kkbox.com/tw/tc/song/OqLlIVrPMMmVdY4GXK",
+        "artist": "張哲瀚"
+    },
+    {
+        "name": "Play Station",
+        "url": "https://www.kkbox.com/tw/tc/song/D_6fFN66Otw-Yc7ZtR",
+        "artist": "JADE"
+    },
+    {
+        "name": "HALAZIA",
+        "url": "https://www.kkbox.com/tw/tc/song/9-bhKyffF6qQ0KCRT2",
+        "artist": "ATEEZ"
+    },
+    {
+        "name": "冬日花朵",
+        "url": "https://www.kkbox.com/tw/tc/song/KnvPFTkMKmKv5cKKdY",
+        "artist": "Tizzy Bac"
+    },
+    {
+        "name": "VERA",
+        "url": "https://www.kkbox.com/tw/tc/song/Kttff_VFIXgP1Hm-df",
+        "artist": "VERA"
+    },
+    {
+        "name": "Higher Love",
+        "url": "https://www.kkbox.com/tw/tc/song/4lzo2V3a9Z5EajPHzD",
+        "artist": "Whitney Houston (惠妮休斯頓)"
+    },
+    {
+        "name": "撞牆 feat. POPO J (Hit The Wall)",
+        "url": "https://www.kkbox.com/tw/tc/song/4taqBxOYLX0lG3ryQO",
+        "artist": "羅莎莎 (Sabrina Lo)"
     }
 ]
